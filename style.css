@@ -1,0 +1,68 @@
+.h1{
+    font-family: 'Lobster', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 10px groove hotpink;
+}
+
+.intro{
+    text-align: center;
+}
+
+.photo{
+    width: 35%;
+}
+
+.text{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.bio{
+    text-align: justify;
+    font-size: 18px;
+    font-family:'Oswald', sans-serif ;
+    border-bottom:  3px ridge hsl(330, 95%, 60%);
+}
+
+.h2{
+    font-family:'Lobster', sans-serif ;
+    text-align: center;
+    font-size: 50px;
+}
+.main{
+    text-align: justify;
+}
+
+.image1{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.name1{
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.image2{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.name2{
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.image3{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.name3{
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
