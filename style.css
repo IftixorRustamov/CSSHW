@@ -50,6 +50,7 @@
 .name1{
     font-size: 25px;
     font-family: 'Oswald', sans-serif;
+    text-align: center;
 }
 
 .image2{
@@ -61,6 +62,7 @@
 .name2{
     font-size: 25px;
     font-family: 'Oswald', sans-serif;
+    text-align: center;
 }
 
 .image3{
@@ -72,4 +74,5 @@
 .name3{
     font-size: 25px;
     font-family: 'Oswald', sans-serif;
+    text-align: center;
 }
